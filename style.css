@@ -95,7 +95,7 @@ h1{
 }
 .cart::before{
     content: "";
-    background: url("./images/icon-cart.svg");
+    background: url("./icon-cart.svg");
     width: 15px;
     height: 16px;
     margin-right: 10px;
